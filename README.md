@@ -20,7 +20,7 @@ The analysis highlights patterns in movie genres, popularity, ratings, and relea
 
 ### Vote Average Distribution
 
-![Vote Average Distribution](images/vote_distribution.jpg)
+![Vote Average Distribution](images/vote_disribution.jpg)
 
 ---
 
@@ -111,7 +111,7 @@ Netflix-Movie-Data-Analysis/
 ├── images/
 │   ├── gener_colum_distribution.jpg
 │   ├── release_date_column_distribution.jpg
-│   └── vote_distribution.jpg
+│   └── vote_disribution.jpg
 ├── .gitignore
 |── Netflix Movie Data Analysis.ipynb
 ├── README.md
