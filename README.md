@@ -12,7 +12,7 @@ The analysis highlights patterns in movie genres, popularity, ratings, and relea
 
 ### Genre Distribution
 
-![Genre Distribution](images/genre_column_distribution.jpg)
+![Genre Distribution](images/gener_colum_distribution.jpg)
 
 ### Release Year Analysis
 
