@@ -12,15 +12,15 @@ The analysis highlights patterns in movie genres, popularity, ratings, and relea
 
 ### Genre Distribution
 
-![Genre Distribution](images/genre_distribution.jpg)
+![Genre Distribution](images/genre_column_distribution.jpg)
 
 ### Release Year Analysis
 
-![Release Year Analysis](images/release_year_analysis.jpg)
+![Release Year Analysis](images/release_date_column_distribution.jpg)
 
 ### Vote Average Distribution
 
-![Vote Average Distribution](images/vote_average_distribution.jpg)
+![Vote Average Distribution](images/vote_distribution.jpg)
 
 ---
 
@@ -110,8 +110,8 @@ jupyter notebook
 Netflix-Movie-Data-Analysis/
 ├── images/
 │   ├── gener_colum_distribution.jpg
-│   ├── release_year_analysis.jpg
-│   └── vote_average_distribution.jpg
+│   ├── release_date_column_distribution.jpg
+│   └── vote_distribution.jpg
 ├── .gitignore
 |── Netflix Movie Data Analysis.ipynb
 ├── README.md
