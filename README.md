@@ -108,14 +108,13 @@ jupyter notebook
 
 ```text
 Netflix-Movie-Data-Analysis/
-│
-├── README.md
 ├── images/
 │   ├── genre_distribution.jpge
 │   ├── release_year_analysis.jpge
 │   └── vote_average_distribution.jpge
 ├── .gitignore
 |── Netflix Movie Data Analysis.ipynb
+├── README.md
 └── netflixmoviedb.csv
 ```
 
