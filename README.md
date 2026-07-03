@@ -12,15 +12,15 @@ The analysis highlights patterns in movie genres, popularity, ratings, and relea
 
 ### Genre Distribution
 
-![Genre Distribution](images/genre_distribution.png)
+![Genre Distribution](images/genre_distribution.jpg)
 
 ### Release Year Analysis
 
-![Release Year Analysis](images/release_year_analysis.png)
+![Release Year Analysis](images/release_year_analysis.jpg)
 
 ### Vote Average Distribution
 
-![Vote Average Distribution](images/vote_average_distribution.png)
+![Vote Average Distribution](images/vote_average_distribution.jpg)
 
 ---
 
