@@ -109,9 +109,9 @@ jupyter notebook
 ```text
 Netflix-Movie-Data-Analysis/
 ├── images/
-│   ├── genre_distribution.png
-│   ├── release_year_analysis.png
-│   └── vote_average_distribution.png
+│   ├── gener_colum_distribution.jpg
+│   ├── release_year_analysis.jpg
+│   └── vote_average_distribution.jpg
 ├── .gitignore
 |── Netflix Movie Data Analysis.ipynb
 ├── README.md
